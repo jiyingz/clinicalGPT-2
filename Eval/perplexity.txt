@@ -1,0 +1,14 @@
+Perplexity metrics on 16/03/2021 09:24:32
+Average perplexity for model sshleifer/tiny-gpt2 on textonly dataset is: 50242.231617972066
+Average perplexity for model sshleifer/tiny-gpt2 on withICD dataset is: 50242.18753862112
+Average perplexity for model gpt2 on textonly dataset is: 33.525581679553255
+Average perplexity for model gpt2 on withICD dataset is: 33.523354062926295
+Average perplexity for model gpt2-medium on textonly dataset is: 22.86338338083054
+Average perplexity for model gpt2-medium on withICD dataset is: 22.859851772502317
+Average perplexity for model ../Saved_Models/GPT2tiny/ on textonly dataset is: 809.6383813968642
+Average perplexity for model ../Saved_Models/GPT2tiny/ on withICD dataset is: 813.0863436036191
+Average perplexity for model ../Saved_Models/GPT2small/ on textonly dataset is: 7.475627058972058
+Average perplexity for model ../Saved_Models/GPT2small/ on withICD dataset is: 13.015645392365375
+Average perplexity for model ../Saved_Models/GPT2medium/ on textonly dataset is: 10.827668081921601
+Average perplexity for model ../Saved_Models/GPT2medium/ on withICD dataset is: 47.88083905368875
+Average perplexity for model ../Saved_Models/GPT2small/ on withDIAGTEXT dataset is: 7.818873261327798
